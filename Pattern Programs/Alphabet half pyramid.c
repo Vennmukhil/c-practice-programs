@@ -11,3 +11,12 @@ int main(){
   }
   return 0;
 }
+
+
+OUTPUT:
+
+A
+B B
+C C C
+D D D D
+E E E E E
